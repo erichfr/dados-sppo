@@ -5,7 +5,7 @@ class Config {
     const BASE_DIR = '/estuturaMvc/public';
 
     const DB_DRIVER = 'mysql';
-    const DB_HOST = '';
+    const DB_HOST = 'localhost';
     const DB_DATABASE = '';
     CONST DB_USER = '';
     const DB_PASS = '';
