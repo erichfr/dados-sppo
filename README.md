@@ -2,15 +2,16 @@
 
 Projeto em MVC PHP para consumo de dados em tempo real do sistema de ônibus da cidade do Rio de Janeiro
 
+
 Exemplo de retorno:
-###
-Ordem: B10001<br>
-Latitude: -22,81456<br>
-Longitude: -43,1871<br>
-Data/Hora: 25-11-2020 19:30:09<br>
-Velocidade: 0<br>
+```
+Ordem: B10001
+Latitude: -22,81456
+Longitude: -43,1871
+Data/Hora: 25-11-2020 19:30:09
+Velocidade: 40
 Linha: 298
-###
+```
 
 ## Instalação
 
