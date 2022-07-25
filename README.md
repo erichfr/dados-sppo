@@ -1,6 +1,6 @@
-# MVC PHP
+# Consumo de dados por API externa
 
-Retorno de dados por API externa 
+Projeto em MVC PHP para consumo de dados do sistema de ônibus da cidade do Rio de Janeiro 
 
 ## Instalação
 
