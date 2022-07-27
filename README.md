@@ -29,5 +29,8 @@ As configurações de Banco de Dados e URL estão no arquivo *src/Config.php*
 ## Uso
 Acessar a pasta *public* do projeto.
 
+## Status
+O projeto se encontra em fase de iniciação.<br>
+O projeto está sendo desenvovido somente por mim.
 
 
